@@ -1,0 +1,31 @@
+Shipment Tracking:
+
+Users can search for shipment details by entering a tracking number.
+Progress is displayed visually, with dynamic updates based on the shipment’s current state.
+Internationalization (i18n):
+
+Full support for Arabic (RTL) and English (LTR) languages.
+Dynamic text direction, translation keys, and date localization.
+Responsive Design:
+
+Optimized for both desktop and mobile views.
+Horizontal timeline for larger screens and vertical timeline for smaller screens.
+Error Handling:
+
+Proper error messages for network or server issues.
+Loading states for asynchronous operations.
+Customizable Components:
+
+Modular, reusable components designed for scalability and ease of maintenance.
+
+Front-End Framework
+React.js: A powerful JavaScript library for building user interfaces.
+ShadCN: A utility-based design system, leveraging Tailwind CSS for consistent styling and reusable components.
+Libraries and Tools
+i18next: For internationalization and managing translations.
+React Router: For navigation and dynamic routing.
+Tailwind CSS: For responsive, utility-first styling.
+Lucide React: For iconography.
+Fetch API: For data fetching from external APIs.
+
+Note: Certain elements from the boilerplate may not be utilized in this specific project iteration. These are preserved to maintain compatibility with the broader architecture and future expansions.
